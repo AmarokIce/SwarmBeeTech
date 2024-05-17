@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "${modid}",
+      "name": "${modname}",
+      "description": "",
+      "version": "${modversion}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["someoneice"],
+      "credits": "someoneice",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": ["required-after:manametalmod"]
+    }
+]

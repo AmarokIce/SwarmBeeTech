@@ -1,0 +1,8 @@
+info.bee_tech.gui.fluid_name=Fluid Type:
+info.bee_tech.gui.fluid_less=Fluid Volume:
+
+fluid.honey=Honey
+fluid.oil=Fry Oil
+fluid.tung_oil=Tung Oil
+
+tile.centrifuge.name=Centrifuge

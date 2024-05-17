@@ -1,0 +1,8 @@
+info.bee_tech.gui.fluid_name=流体类型:
+info.bee_tech.gui.fluid_less=流体容量:
+
+fluid.honey=蜂蜜
+fluid.oil=油炸用植物油
+fluid.tung_oil=桐油
+
+tile.centrifuge.name=蜂巢离心机
